@@ -1,0 +1,32 @@
+body{
+    background-color: coral;
+    align-self: auto;
+}
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifh;
+    font-style: italic;
+    flex: auto;
+    text-align: center;
+
+}
+h2{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    flex: auto;
+    text-align: left;
+}
+p{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    flex: auto;
+    text-align: right;
+    background-color: aquamarine;
+}
+img{
+    height: 200px;
+    width: 300px;
+    flex: auto;
+}
